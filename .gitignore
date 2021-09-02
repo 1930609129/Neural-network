@@ -1,3 +1,4 @@
-.mp4
-.txt
-.jpg
+*.mp4
+*.txt
+*.jpg
+!coco.names.txt
